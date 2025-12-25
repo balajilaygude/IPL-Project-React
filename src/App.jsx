@@ -5,8 +5,7 @@ import MatchDetail from './components/MatchDetail'
 import NavBar from './components/NavBar'
 import PointsTable from './components/PointsTable'
 import News from './components/News'
-import Player from './components/Player'
-import Stats from './components/Stats'
+
 
 
 function App() {
@@ -18,8 +17,6 @@ function App() {
             <Route path='/pointsTable' element={<PointsTable/>}/>
             <Route path='/matchdetail/:id' element={<MatchDetail/>}/>
             <Route path='/news' element={<News/>}/>
-            <Route path='/player' element={<Player/>}/>
-            <Route path='/stats' element={<Stats/>}/>
         </Route>
 
         
