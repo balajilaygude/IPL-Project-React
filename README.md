@@ -1,5 +1,6 @@
 
 
+
 # IPL 2024 Clone
 
 ## Overview
@@ -72,6 +73,7 @@ https://ipl-project-react-psi.vercel.app/
 
 <img width="1897" height="890" alt="Screenshot 2026-07-20 221525" src="https://github.com/user-attachments/assets/c8503edc-6015-47fb-891f-29f1d553108f" />
 
+<img width="1917" height="912" alt="Screenshot 2026-07-20 221539" src="https://github.com/user-attachments/assets/3b3c8593-310c-4b09-a971-667c4fd29e40" />
 
 ## Impact
 
