@@ -70,6 +70,9 @@ https://ipl-project-react-psi.vercel.app/
 
 ## Demo Images
 
+<img width="1897" height="890" alt="Screenshot 2026-07-20 221525" src="https://github.com/user-attachments/assets/c8503edc-6015-47fb-891f-29f1d553108f" />
+
+
 ## Impact
 
 This project demonstrates frontend development skills, API integration, responsive UI design, React component architecture, and client-side routing. It showcases the ability to build modern, scalable web applications using React.js and Tailwind CSS.
