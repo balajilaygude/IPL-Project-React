@@ -64,6 +64,12 @@ Creating a consistent user experience across different screen sizes using Tailwi
 
 Designing reusable components to improve maintainability and reduce code duplication.
 
+## Live Demo 
+
+https://ipl-project-react-psi.vercel.app/
+
+## Demo Images
+
 ## Impact
 
 This project demonstrates frontend development skills, API integration, responsive UI design, React component architecture, and client-side routing. It showcases the ability to build modern, scalable web applications using React.js and Tailwind CSS.
