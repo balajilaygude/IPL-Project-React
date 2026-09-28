@@ -6,7 +6,7 @@
 
 IPL 2024 Clone is a responsive frontend web application built using React.js and Tailwind CSS that replicates the user experience of a modern IPL cricket platform. The application provides users with easy navigation between different sections, match-related information, and a clean user interface powered by real-time cricket data fetched from external APIs.
 
-The project was developed to strengthen frontend development skills, API integration, routing, component-based architecture, and responsive UI design.
+
 
 ## Key Features
 
